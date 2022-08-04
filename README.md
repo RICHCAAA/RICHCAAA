@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning about algo trading and quant trading
 - 🥅 2022 Goals: Learn even more about quantitative trading
 - 🥅 2023 Goals: CFA level 1 exam
-- ⚡ Fun fact: I won a beer drinking contest
+- ⚡ Fun fact: I won a beer drinking contest I randomly entered at the last minute
  
  
 
