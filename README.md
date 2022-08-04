@@ -2,7 +2,7 @@
 
  
 
-## I'm a finance student and a retail trader
+## I'm a finance student passionate about trading
 
 - 🔭 Explore my github and learn more about me and my projects
 - 🌱 I’m currently learning about algo trading and quant trading
