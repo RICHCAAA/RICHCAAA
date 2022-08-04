@@ -2,11 +2,12 @@
 
  
 
-## I'm a student and a retail trader
+## I'm a finance student and a retail trader
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Explore my github and learn more about me and my projects
 - 🌱 I’m currently learning about algo trading and quant trading
 - 🥅 2022 Goals: Learn even more about quantitative trading
+- 🥅 2023 Goals: CFA level 1 exam
 - ⚡ Fun fact: I won a beer drinking contest
  
  
