@@ -2,12 +2,12 @@
 
  
 
-## I'm a finance student passionate about trading
+## I'm currently working in finance
 
 - 🔭 Explore my github and learn more about me and my projects
 - 🌱 I’m currently learning about algo trading and quant trading
-- 🥅 2022 Goals: Learn even more about quantitative trading
-- 🥅 2023 Goals: CFA level 1 exam
+- 🥅 2024 Goals: Learn even more about quantitative trading
+- 🥅 2025 Goals: CFA level 1 exam
 - ⚡ Fun fact: I won a beer drinking contest I randomly entered at the last minute
  
  
